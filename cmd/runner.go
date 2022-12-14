@@ -1,6 +1,5 @@
 package main
 
-//import "github.com/hirakc/learn-go-with-tests/hello"
 import (
 	"fmt"
 
